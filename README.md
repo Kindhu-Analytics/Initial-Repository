@@ -1,4 +1,4 @@
-👋 Hey, I’m Kindhujan Mahendiran (aka Ghost)
+👋 Hey, I’m Kindhujan Mahendiran 
 
 I'm a logistics professional transitioning into the world of data, systems, and product leadership.  
 I use SQL, dashboards, and Scrum principles to solve real-world problems and design smarter systems.
